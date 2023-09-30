@@ -1,8 +1,8 @@
 # NetfilterSetUp
 Check out the main.c file!
+this example is within ubuntu
 
 # Install
-this example is within ubuntu
   ```
   sudo apt-get install libnetfilter-queue-dev
   ```
