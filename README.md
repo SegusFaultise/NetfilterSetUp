@@ -7,7 +7,7 @@ this example is within ubuntu
   sudo apt-get install libnetfilter-queue-dev
   ```
 # includes
-main includes from the lib
+main includes
   ```c
   #include <stdio.h>
   #include <stdlib.h>
